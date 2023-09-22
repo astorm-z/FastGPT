@@ -1,4 +1,4 @@
-<div align="center">
+1<div align="center">
 
 <a href="https://fastgpt.run/"><img src="/.github/imgs/logo.svg" width="120" height="120" alt="fastgpt logo"></a>
 
